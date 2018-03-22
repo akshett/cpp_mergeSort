@@ -1,0 +1,1 @@
+This is a C++ implementation of merge sort which is a recursive algorithm. The function is written with a generic template and can be used for any comaparable type (types that compare using '<', '>' operator).
